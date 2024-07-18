@@ -1,0 +1,2 @@
+h1,h4{color:#094609}nav{min-height:10vh;display:flex;justify-content:center;align-items:center;margin:20px}nav button{background:rgba(0,0,0,0);border:none;cursor:pointer;font-size:16px;margin-left:20%;border:2px solid #29d819;padding:.8rem;transition:all .3s ease}nav button:hover{background:#59db4d;color:#fff}@media screen and (max-width: 768px){nav button{z-index:10}}
+/*# sourceMappingURL=nav.min.css.map */
